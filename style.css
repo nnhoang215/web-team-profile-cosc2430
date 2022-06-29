@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.col{
+    margin-top: 20px;
+    padding: 0px 20px;
+}
+
+.projects{
+    padding-left: 40px;
+    font-size: 120%;
+    list-style: decimal;
+}
